@@ -30,6 +30,46 @@ Blockquotes is used to define "a section that is quoted from another source", an
 >
 >>You can also nest blockquotes
 >>>Wonder how many times
->>
->
+
+## Unordered Lists
+
+Simple to implement with (-)
+
+- list
+- as 
+- you
+    - go
+
+## Ordered Lists
+
+Using numbers
+
+1. List
+2. As
+3. You
+    1. Go
+
+## Code Blocks
+
+I like using the (```) method
+
+```
+put your code in between ```
+```
+
+## Images
+
+Type ! then [] followed by link of image in ()
+
+![](https://via.placeholder.com/150)
+
+## Horizontal Rule
+
+You can use 3 or more asterisks (***), dashes (---) or underscores (___) on line 
+
+---
+
+## Links
+
+
 
