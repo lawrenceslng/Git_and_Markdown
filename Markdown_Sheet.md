@@ -20,3 +20,16 @@ Italics can be added with 1 asterisk. Do so like *such* or in *a phrase like suc
 
 To bold AND italicize a word, use 3 asterisks. Like ***shown here***. Also can be done wi***th***in a word.
 
+## Blockquotes
+
+Blockquotes is used to define "a section that is quoted from another source", and they can be done with (>) symbol
+
+>This will look like this
+>
+>And it can span for multiple lines
+>
+>>You can also nest blockquotes
+>>>Wonder how many times
+>>
+>
+
